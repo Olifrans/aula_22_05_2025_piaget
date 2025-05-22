@@ -1,0 +1,1 @@
+alert("Palmeiras tem mundial!")
