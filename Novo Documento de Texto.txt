@@ -1,1 +1,8 @@
 https://prezi.com/p/edit/gw8vgn-zu1-n/#ai-flow/details
+
+
+
+
+     Aula 14: Gerenciamento de dispositivos de entrada e saída.
+     Aula 15: Armazenamento de dados e compartilhamento de recursos.
+     Aula 16: Autenticação e procedimentos de segurança
